@@ -1,3 +1,26 @@
-body {
-    background-color: #7fff00;
+header {background-color: aqua;}
+.cab{
+    display: flex;
+    justify-content: center;
+}
+  .img1{
+    width: 20%;
+  }
+  .img2{
+    width: 20%;
+  }
+  .img3{ 
+    width: 20%;
+  }
+  .img4{
+    width:  254px;
+  }
+.img5{
+    width: 20%;
+}
+.img6{
+    width: 400px;
+}
+.img7{
+    width: 330px;
 }
