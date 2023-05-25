@@ -1,7 +1,15 @@
-header {background-color: aqua;}
+*{
+  margin: 0;
+  padding: 0;
+}
+header {background-color: rgb(255, 255, 255);}
 .cab{
-    display: flex;
+    
     justify-content: center;
+    padding: 40px;
+}
+.h1{
+  width: 50px;
 }
   .img1{
     width: 20%;
@@ -24,3 +32,20 @@ header {background-color: aqua;}
 .img7{
     width: 330px;
 }
+.cabeçalho {
+  background-color: aliceblue;
+  color: aqua;
+  display: flex;
+  justify-content: space-around;
+  padding: 24px 0;
+}
+.cabeçalho-imagem{
+  width: 20%;
+}
+.cabeçalho-lista-item{
+  display: inline-block;
+  margin: 0 16px;
+  font-size: 24px;
+}
+
+  
