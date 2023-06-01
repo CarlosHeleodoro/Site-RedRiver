@@ -2,35 +2,50 @@
   margin: 0;
   padding: 0;
 }
-header {background-color: rgb(255, 255, 255);}
+header {background-color: rgb(82, 72, 224);}
 .cab{
     
-    justify-content: center;
-    padding: 40px;
+    justify-content:space-evenly;
+    padding: 30px;
 }
 .h1{
   width: 50px;
 }
-  .img1{
-    width: 20%;
-  }
+.img1{
+  width: 20%;
+  justify-content: space-between;
+  padding: 20%;
+}
+ 
   .img2{
     width: 20%;
+    justify-content: space-between;
+  padding: 20%;
   }
   .img3{ 
     width: 20%;
+    justify-content: space-between;
+  padding: 20%;
   }
   .img4{
     width:  254px;
+    justify-content: space-between;
+  padding: 20%;
   }
 .img5{
     width: 20%;
+    justify-content: space-between;
+  padding: 20%;
 }
 .img6{
-    width: 400px;
+    width: 300px;
+    justify-content: space-between;
+  padding: 20%;
 }
 .img7{
     width: 330px;
+    justify-content: space-between;
+  padding: 20%;
 }
 .cabeçalho {
   background-color: aliceblue;
@@ -47,5 +62,7 @@ header {background-color: rgb(255, 255, 255);}
   margin: 0 16px;
   font-size: 24px;
 }
+.loja{
+  background-color: black;
+}
 
-  
